@@ -44,12 +44,12 @@ You have been assigned an issue 🥂 and are confused 😵 about where to go fro
 - Using the command below 👇, you can clone the repository.
 
 ```
-git clone https://github.com/Kanika637/amazon-clone.git
+git clone https://github.com/vidhichadha2507/react_projects.git
 ```
 - Navigate to the cloned directory using command line.👇
 
 ```
-cd amazon-clone
+cd react_projects
 ```
 
 - Install all the dependencies.👇
@@ -80,7 +80,7 @@ Yeahhh, You are all set!! 🍾🎉. You can now make your changes locally. Once 
 You have to switch to the main branch and make sure it's up to date with the **react_projects** main branch. To do so, use the following commands below👇.
 
 ```
-git remote add upstream https://github.com/Kanika637/amazon-clone.git
+git remote add upstream https://github.com/vidhichadha2507/react_projects.git
 git checkout main
 git pull upstream main
 ```
