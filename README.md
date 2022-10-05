@@ -1,5 +1,5 @@
 # Contributing to React Projects
-Congratulations!✨, You have taken the first step in making your contribution in my React_Projects Repository. 
+Congratulations!✨, You have taken the first step in making your contribution in my **react_projects** Repository. 
 Here, you can add your Amazing React Projects. This documentation will serve as a guide for making your contibutions to this project. Please attach screenshots of the work that you have done while making a PR. If you are working on an issue, please mention it as well. **Just make sure that you push only the files that you have worked upon**
 Finally!!, we can't wait to see your outstanding issues and pull requests. Welcome 😇❤
 
