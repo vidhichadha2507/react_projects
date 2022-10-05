@@ -61,7 +61,6 @@ npm i
 - Make a new branch.👇
 
 ```
-
 git checkout -b "Your Branch Name"
 ```
 
